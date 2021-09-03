@@ -1,0 +1,4 @@
+{
+  "mongoURI":  "mongodb+srv://mariem:mariem@cluster0.abn22.mongodb.net/MyBank?retryWrites=true&w=majority"
+ 
+}
